@@ -85,6 +85,10 @@ p {
 		font-size: 8pt;
 	}
 
+	div.row {
+		margin-bottom: 4em;
+	}
+
 
 
 /* #Media Queries
